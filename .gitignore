@@ -2,6 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -54,6 +55,11 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.fbx
+*.mp4
+*.mov
+*.avi
+*.obj
 
 # Unity3D generated meta files
 *.pidb.meta
