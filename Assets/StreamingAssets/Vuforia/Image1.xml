@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="caietpadure" size="0.297000 0.417758" />
+    <ImageTarget name="caietmasina1" size="0.297000 0.436339" />
+  </Tracking>
+</QCARConfig>
